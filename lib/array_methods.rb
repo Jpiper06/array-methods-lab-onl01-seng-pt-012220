@@ -25,6 +25,8 @@ def using_first(array)
 end
 
 def using_last(array)
+  
+  def.#last
 
 end
 
